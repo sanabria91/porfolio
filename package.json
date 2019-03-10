@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "<a href=\"https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/\" target=\"_blank\"><img src=\"https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/free-bootstrap-portfolio-theme-for-web-developers.jpg\" alt=\"Developer Theme\" width=\"750\" /></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch assets/scss/styles.scss -o assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xriley/Developer-Theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xriley/Developer-Theme/issues"
+  },
+  "homepage": "https://github.com/xriley/Developer-Theme#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
