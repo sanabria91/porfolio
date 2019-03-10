@@ -100,7 +100,7 @@ a.dotted-link {
     .profile-image {
         margin-right: 30px;
         width: 20%;
-        border-radius: 50%;
+        border-radius: 51%;
     }
     .profile-content {
         
@@ -354,10 +354,8 @@ a.dotted-link {
     }
     
     li {
-        margin-bottom: 15px;
-        &:last-child {
-            margin-bottom: 0;
-        }
+        margin-bottom: 8px;
+
     }
 }
 
